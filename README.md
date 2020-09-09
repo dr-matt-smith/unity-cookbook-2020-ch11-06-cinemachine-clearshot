@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch11-05-cinemachine-clearshot
+# unity-cookbook-2020-ch11-06-cinemachine-clearshot
